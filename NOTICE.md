@@ -51,7 +51,7 @@ If you're unsure whether your use case falls inside or outside the noncommercial
 
 `docs/publish_your_work.md` walks students through deploying their fork to Vercel + Render at the end of Module 7, then publishing that deploy as a portfolio piece. **The deployed app and your portfolio repo are yours.** Hosting your version on Vercel + Render is personal use. Showing the live URL to a recruiter is personal use. Adding more features and shipping it as a real product is fine — *what you learned is yours.*
 
-What's restricted is the **curriculum** itself — the pedagogical structure, the staged eight-module shape, the per-module narrative in the dist READMEs, the crash course, the deploy guide. You can't repackage *those* and sell them as a paid course. You can build whatever you want on top of the V1 final code.
+What's restricted is the **curriculum** itself — the pedagogical structure, the staged eight-module shape, the per-module narrative in the dist READMEs. You can't repackage *those* and sell them as a paid course. You can build whatever you want on top of the V1 final code.
 
 ---
 

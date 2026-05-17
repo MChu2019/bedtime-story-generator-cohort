@@ -50,7 +50,7 @@ git clone https://github.com/SwarupSG/bedtime-story-generator-cohort.git
 cd bedtime-story-generator-cohort
 ```
 
-(Why a short path on Windows? OneDrive's silent online-only file marking, the 260-character path limit, and spaces in user folders all break Python's `psycopg[binary]`. Crash course Module 0 explains in full.)
+(Why a short path on Windows? OneDrive's silent online-only file marking, the 260-character path limit, and spaces in user folders all break Python's `psycopg[binary]`.)
 
 ### Set up the shared venv (once per machine)
 
@@ -93,7 +93,7 @@ Binary on PATH ≠ service running. From the cohort repo root with the venv acti
 
 Every check green, ending with *"All checks passed. You're ready for Module 1."* means you're ready. Each ✗ line tells you the exact one-line command to fix it.
 
-**If anything fails after you've worked through the crash course:** open Antigravity, paste the failing ✗ line into the Gemini chat panel along with the crash course's Module 0 install steps you've already done. Gemini will coach you to the fix. The live block's instructor is your last resort, not your first.
+**If anything fails:** open Antigravity, paste the failing ✗ line into the Gemini chat panel along with what you've already tried. Gemini will coach you to the fix. The live block's instructor is your last resort, not your first.
 
 ## The 5-step Class Flow (same pattern in every module)
 

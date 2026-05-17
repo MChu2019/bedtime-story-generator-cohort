@@ -33,7 +33,7 @@ python -m http.server 5173 --directory frontend
 # Browser: http://localhost:5173
 ```
 
-The frontend's `BACKEND_URL` constant in `frontend/script.js` ships as `"http://localhost:8000"` for local dev — points at terminal 1. The CORS middleware on the backend lets the cross-origin request through. **For production deploy, you'll edit `BACKEND_URL` to your Render service URL — the deploy guide walks that step.**
+The frontend's `BACKEND_URL` constant in `frontend/script.js` ships as `"http://localhost:8000"` for local dev — points at terminal 1. The CORS middleware on the backend lets the cross-origin request through. **For production deploy, you'll edit `BACKEND_URL` to your Render service URL — see the Deploy section below.**
 
 ## Deploy to production
 
